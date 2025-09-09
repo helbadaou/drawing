@@ -1,0 +1,14 @@
+/home/helbadao/drawing/drawing/target/debug/deps/png-bccfb024302b0ee7.d: /home/helbadao/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/png-0.5.2/src/lib.rs /home/helbadao/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/png-0.5.2/src/chunk.rs /home/helbadao/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/png-0.5.2/src/crc.rs /home/helbadao/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/png-0.5.2/src/decoder/mod.rs /home/helbadao/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/png-0.5.2/src/decoder/stream.rs /home/helbadao/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/png-0.5.2/src/encoder.rs /home/helbadao/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/png-0.5.2/src/filter.rs /home/helbadao/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/png-0.5.2/src/traits.rs /home/helbadao/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/png-0.5.2/src/common.rs /home/helbadao/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/png-0.5.2/src/utils.rs
+
+/home/helbadao/drawing/drawing/target/debug/deps/libpng-bccfb024302b0ee7.rmeta: /home/helbadao/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/png-0.5.2/src/lib.rs /home/helbadao/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/png-0.5.2/src/chunk.rs /home/helbadao/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/png-0.5.2/src/crc.rs /home/helbadao/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/png-0.5.2/src/decoder/mod.rs /home/helbadao/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/png-0.5.2/src/decoder/stream.rs /home/helbadao/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/png-0.5.2/src/encoder.rs /home/helbadao/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/png-0.5.2/src/filter.rs /home/helbadao/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/png-0.5.2/src/traits.rs /home/helbadao/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/png-0.5.2/src/common.rs /home/helbadao/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/png-0.5.2/src/utils.rs
+
+/home/helbadao/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/png-0.5.2/src/lib.rs:
+/home/helbadao/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/png-0.5.2/src/chunk.rs:
+/home/helbadao/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/png-0.5.2/src/crc.rs:
+/home/helbadao/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/png-0.5.2/src/decoder/mod.rs:
+/home/helbadao/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/png-0.5.2/src/decoder/stream.rs:
+/home/helbadao/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/png-0.5.2/src/encoder.rs:
+/home/helbadao/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/png-0.5.2/src/filter.rs:
+/home/helbadao/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/png-0.5.2/src/traits.rs:
+/home/helbadao/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/png-0.5.2/src/common.rs:
+/home/helbadao/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/png-0.5.2/src/utils.rs:
