@@ -1,4 +1,4 @@
-OUT_DIR = Some(/home/helbadao/drawing/drawing/target/debug/build/miniz-sys-eaabd47902dcb64a/out)
+OUT_DIR = Some(/home/midbenke/Desktop/drawing/target/debug/build/miniz-sys-eaabd47902dcb64a/out)
 OPT_LEVEL = Some(0)
 TARGET = Some(x86_64-unknown-linux-gnu)
 HOST = Some(x86_64-unknown-linux-gnu)
@@ -42,5 +42,5 @@ ARFLAGS_x86_64_unknown_linux_gnu = None
 cargo:rerun-if-env-changed=ARFLAGS_x86_64-unknown-linux-gnu
 ARFLAGS_x86_64-unknown-linux-gnu = None
 cargo:rustc-link-lib=static=miniz
-cargo:rustc-link-search=native=/home/helbadao/drawing/drawing/target/debug/build/miniz-sys-eaabd47902dcb64a/out
-cargo:root=/home/helbadao/drawing/drawing/target/debug/build/miniz-sys-eaabd47902dcb64a/out
+cargo:rustc-link-search=native=/home/midbenke/Desktop/drawing/target/debug/build/miniz-sys-eaabd47902dcb64a/out
+cargo:root=/home/midbenke/Desktop/drawing/target/debug/build/miniz-sys-eaabd47902dcb64a/out
